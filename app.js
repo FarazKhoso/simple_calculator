@@ -26,5 +26,5 @@ else if (answer.operator === "divison") {
     console.log(answer.firstNumber / answer.secondNumber);
 }
 else {
-    console.log("plz salect alid operator");
+    console.log("plz salect valid operator");
 }
